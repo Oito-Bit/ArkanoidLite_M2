@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+315543600 source:c:\users\8091854\downloads\arkanoidtentativa\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1725840413 source:c:\users\carlos adriano\downloads\arkanoidtentativa-20240908t033947z-001\arkanoidtentativa\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1726595279 source:c:\users\carlos adriano\downloads\arkanoidtentativa-20240917t174740z-001\arkanoidtentativa\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1727804395 source:c:\users\carlos adriano\downloads\arkanoidtentativa\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+315543600 source:c:\users\8091854\downloads\arkanoidtentativa-20241003t233120z-001\arkanoidtentativa\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1730243066 source:c:\users\8091854\downloads\arkanoidm2\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+
+1729882443 source:c:\users\carlos adriano\downloads\arkanoidm2\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+
+1730070037 source:c:\users\carlos adriano\downloads\arkanoidm2-20241027t212647z-001\arkanoidm2\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<string>
+	<vector>
+	<algorithm>
+
